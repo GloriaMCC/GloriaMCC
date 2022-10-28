@@ -1,12 +1,12 @@
 ### Hi there 👋 I am Gloria M. Castañeda Campos
 # 💫 About Me:
-🔭 I’m currently working  as freelancer<br>👯 I’m looking to collaborate on data science projects <br>       
-and embedded systems<br>
+🔭 I’m currently working  as freelancer<br>
+👯 I’m looking to collaborate on data science projects <br>and embedded systems<br>
 🌱 I’m currently learning cumputer vision<br>
 💬 Ask me about  mechatronic, machine learning and <br>      
 data science<br>📄 Know about my experiences in my CV  <br>
 📫 Reach me at: gloriam.castanedac@gmail.com<br>
-⚡ Fun fact I am a fanatic of isekai stories and comics
+⚡ Fun fact I love read heroe comics or manhwas
 
 
 ## 🌐 Socials:
